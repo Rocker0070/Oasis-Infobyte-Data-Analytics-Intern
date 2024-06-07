@@ -61,10 +61,3 @@ Welcome to the Oasis Infobyte Data Analytics Internship repository! This reposit
 
 # Author
 **Rana Nandy**
-
-
-- **Name:** [Your Name]
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn Profile]
-
-Thank you for visiting the repository and happy coding!
